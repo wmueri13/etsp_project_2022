@@ -1,8 +1,8 @@
 # etsp_project_2022
 
 ## Developers
-### Wesley Müri
-### Turki Alahmadi
+Wesley Müri
+Turki Alahmadi
 
 ## Documentation
 - All relevant results can be directly seen in the repository.
