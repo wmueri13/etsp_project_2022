@@ -1,6 +1,6 @@
 # Essentials in Text and Speech Processing - NLP Project
 
-## Developers (UZH)
+## Developers (University of Zurich)
 Wesley Müri
 
 Turki Alahmadi
