@@ -19,6 +19,9 @@ Stock market prediction has gained a noticeable interest in the past two decades
 
 ## References (Intro)
 [1] Patrick Uhr, M. F., and J. Zenkert. "Sentiment analysis in financial market." IEEE International Conference  System Man, Cybernetics. 2014.
+
 [2] Pagolu, Venkata Sasank, et al. "Sentiment analysis of Twitter data for predicting stock market movements." 2016 international conference on signal processing, communication, power and embedded system (SCOPES). IEEE, 2016.
+
 [3] De Fortuny, Enric Junqué, et al. "Evaluating and understanding text-based stock price prediction models." Information Processing & Management 50.2 (2014): 426-441.
+
 [4] Kenton, Will. “Intraday Return Definition.” Edited by Akhilesh Ganti, Investopedia, 18 Sept. 2022, https://www.investopedia.com/terms/i/intraday-return.asp. 
