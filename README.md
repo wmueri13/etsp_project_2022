@@ -2,6 +2,7 @@
 
 ## Developers (UZH)
 Wesley Müri
+
 Turki Alahmadi
 
 ## Documentation
