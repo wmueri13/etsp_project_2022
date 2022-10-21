@@ -1,5 +1,7 @@
 # Essentials in Text and Speech Processing - NLP Project
 
+## Binary Classification of Stock Market Intraday Returns with a BERT-based Model
+
 ## Developers (University of Zurich)
 Wesley Müri
 
