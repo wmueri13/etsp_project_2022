@@ -3,9 +3,9 @@
 ## Binary Classification of Stock Market Intraday Returns with a BERT-based Model
 
 ## Developers (University of Zurich)
-Wesley Müri
+Wesley Müri (MSc Candidate Artificial Intelligence)
 
-Turki Alahmadi
+Turki Alahmadi (MSc Candidate Data Science)
 
 ## Documentation
 - All relevant results can be directly seen in the repository.
