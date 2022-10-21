@@ -1,6 +1,6 @@
-# etsp_project_2022
+# Essentials in Text and Speech Processing - NLP Project
 
-## Developers
+## Developers (UZH)
 Wesley Müri
 Turki Alahmadi
 
